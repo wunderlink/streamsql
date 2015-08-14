@@ -1,6 +1,6 @@
 {
   "name": "wunderlink-streamsql",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "Streaming SQL ORM",
   "main": "index.js",
   "directories": {
